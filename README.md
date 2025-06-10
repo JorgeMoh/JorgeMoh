@@ -1,6 +1,6 @@
 
 ## 🐦‍🔥 About Me
-Alumno de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Gran Capitan.
+  Alumno de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Gran Capitan.
 
 
 ## 🛠 Skills
