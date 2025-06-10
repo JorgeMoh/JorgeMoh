@@ -1,6 +1,7 @@
 
 ## 🐦‍🔥 About Me
-  Alumno de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Gran Capitan.
+"Hello, my name is Jorge cual es tu my name?"  
+Alumno de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Gran Capitan.
 
 
 ## 🛠 Skills
