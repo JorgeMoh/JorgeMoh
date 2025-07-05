@@ -3,7 +3,7 @@
 Alumno de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Gran Capitan.
 
 
-## 🛠 Skills
+## 🛠 Languages
 - Java (Intermedio bajo)
 - Javascript (Principiante)
 - HTML
