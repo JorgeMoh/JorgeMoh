@@ -6,8 +6,7 @@ Alumno de Grado Superior de Desarrollo de Aplicaciones Multiplataforma (DAM) en 
 ## 🛠 Languages
 - Java (Intermedio bajo)
 - Javascript (Principiante)
-- HTML
-- CSS
+- HTML/CSS
 
 
 ## 📊 Stats
